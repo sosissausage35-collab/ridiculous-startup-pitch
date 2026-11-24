@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/sosissausage35-collab/ridiculous-startup-pitch/rank.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
 [![reward](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/sosissausage35-collab/ridiculous-startup-pitch/reward.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
 
-A one-sentence startup pitch: ex-burglars break into your home (by invitation) and photograph everything they'd steal, so you fix the weak spots first.
+A one-sentence startup pitch: a goat video-calls you every morning and screams until you get out of bed — an alarm you can snooze loses to a goat you can't.
 
 ## The pitch
 
-> We hire ex-burglars to break into your home while you're on holiday and photograph everything they'd steal, so you pay to fix the weak spots before a real thief finds them.
+> We rent you a goat that video-calls every morning and screams until you get out of bed, because an alarm you can snooze always loses to a goat you can't.
 
 ## Run it
 
